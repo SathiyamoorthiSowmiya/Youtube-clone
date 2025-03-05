@@ -16,9 +16,9 @@
 ## ✨ Features
 -  Browse and watch videos  
 - Play videos in a custom video player  
-✅ See video details (title, description, uploader, views, likes)  
-✅ Responsive design for desktop, tablet, and mobile  
-✅ Search bar to find videos quickly  
+- See video details (title, description, uploader, views, likes)  
+- Responsive design for desktop, tablet, and mobile  
+- Search bar to find videos quickly  
 
 ---
 
@@ -39,7 +39,7 @@
 ## 📬 Contact
 For any queries or collaborations, feel free to reach me:  
 ✉️ somviyamoorthi01@gmail.com  
-🔗 [LinkedIn - Somviya Sathiyamoorthi](https://www.linkedin.com/in/somviya-sathiyamoorthi)  
+🔗 [LinkedIn -  Sowmiya Sathiyamoorthi  
 🌐 [Portfolio](https://somiya-portfolio.netlify.app/)
 
 
