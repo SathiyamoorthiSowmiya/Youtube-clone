@@ -1,30 +1,45 @@
-# Youtube Clone
+# 📺 YouTube Clone
+
+## 🚀 Introduction
+- This project is a **YouTube Clone** built using **HTML, CSS, and JavaScript**.  
+- It recreates the **core features** and **design** of the famous video-sharing platform, allowing users to:
+
+🎥 View and Play Videos | 🔍 Search for Videos | 💻 Experience a Clean UI  
+
+---
+
+## 🌐 Live Demo
+👉 [YouTube Clone - Live Demo](https://youtube-cloneproj.netlify.app/)
+
+---
+
+## ✨ Features
+-  Browse and watch videos  
+- Play videos in a custom video player  
+✅ See video details (title, description, uploader, views, likes)  
+✅ Responsive design for desktop, tablet, and mobile  
+✅ Search bar to find videos quickly  
+
+---
+
+## 🛠️ Technologies Used
+- 🏗️ **HTML** - Structuring the pages
+- 🎨 **CSS** - Adding styles & responsive design
+- ⚙️ **JavaScript** - Making the site interactive
+
+---
+
+## 📖 Usage
+1️⃣ Open `index.html` in your browser  
+2️⃣ Homepage loads with video suggestions  
+3️⃣ Click a video to watch it  
+4️⃣ Use the search bar to find videos you like
 
 
-## Introduction
-This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The goal of this project is to recreate the basic functionality and design of the popular video-sharing platform YouTube. This clone will allow users to view videos, search for videos, play videos, and interact with the user interface.
-
-## Live Demo
-https://youtube-cloneproj.netlify.app/
-
-## Features
-- Browse and watch videos
-
-- Play videos in a video player
-- Display video information (title, description, uploader, views, likes, etc.)
-- Responsive design for various devices
-
-## Technologies Used
-- HTML: For creating the structure of the web pages.
-- CSS: For styling the web pages and making them visually appealing.
-- JavaScript: For adding interactivity and functionality to the website.
-
-## Usage
-1. Open the `index.html` file in your web browser.
-2. The homepage will display a list of videos from the YouTube Data API.
-3. You can click on any video to watch it. The video will be played in a video player.
-4. Use the search bar to search for specific videos. The search results will be displayed below the search bar.
-
-
+## 📬 Contact
+For any queries or collaborations, feel free to reach me:  
+✉️ somviyamoorthi01@gmail.com  
+🔗 [LinkedIn - Somviya Sathiyamoorthi](https://www.linkedin.com/in/somviya-sathiyamoorthi)  
+🌐 [Portfolio](https://somiya-portfolio.netlify.app/)
 
 
