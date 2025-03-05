@@ -39,7 +39,7 @@
 ## 📬 Contact
 For any queries or collaborations, feel free to reach me:  
 ✉️ somviyamoorthi01@gmail.com  
-🔗 [LinkedIn -  Sowmiya Sathiyamoorthi  
+🔗  LinkedIn - Somviya Sathiyamoorthi 
 🌐 [Portfolio](https://somiya-portfolio.netlify.app/)
 
 
